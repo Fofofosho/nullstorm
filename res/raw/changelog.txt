@@ -1,0 +1,4 @@
+Change Log: v1.1
+
++Added a drop shadow to the text hint
++Improved the hitbox
