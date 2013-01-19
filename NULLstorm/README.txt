@@ -61,10 +61,19 @@ November 30th, 2012
 		- Auto fire implemented
 		- Initial implementation of main menu
 
-December 1st, 2012	Version 1.0
+December 1st, 2012	
+		- Version 1.0
 		- Release!
-December 2nd, 2012	Version 1.01
+		
+December 2nd, 2012	
+		- Version 1.01
 		- Shop draw bug fixed
 		- Shop price scaling
 		- Enemy 3 balance change
 		- Scaling enemy health
+		
+January 19th, 2013
+		- New semester
+		- Updated README
+		- Some semantic changes to project
+		- Bitbucket -> Github
