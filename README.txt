@@ -77,3 +77,14 @@ January 19th, 2013
 		- Updated README
 		- Some semantic changes to project
 		- Bitbucket -> Github
+
+BUGS / IMPROVEMENTS [TODO]
+		- Shield/weapons/power-ups/shop
+			- More more more functionality
+		- Music (dat silence)
+		- Menu/pause size too small
+		- Shooting should always be on
+		- Calibration screen is wonky
+		- High score is not set
+		- Impossible waves (better level advancement)
+		- Pause causes calibration screen to pause as well
