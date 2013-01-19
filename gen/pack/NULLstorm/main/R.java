@@ -57,12 +57,14 @@ public final class R {
         public static final int shoplives=0x7f02002b;
         public static final int shopminus=0x7f02002c;
         public static final int smoke=0x7f02002d;
-        public static final int star=0x7f02002e;
-        public static final int start=0x7f02002f;
-        public static final int text1=0x7f020030;
-        public static final int text2=0x7f020031;
-        public static final int tiles=0x7f020032;
-        public static final int title=0x7f020033;
+        public static final int spacecloud1=0x7f02002e;
+        public static final int spacecloud2=0x7f02002f;
+        public static final int star=0x7f020030;
+        public static final int start=0x7f020031;
+        public static final int text1=0x7f020032;
+        public static final int text2=0x7f020033;
+        public static final int tiles=0x7f020034;
+        public static final int title=0x7f020035;
     }
     public static final class layout {
         public static final int main=0x7f030000;

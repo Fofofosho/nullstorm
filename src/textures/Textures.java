@@ -15,6 +15,8 @@ public class Textures extends View
 	public static Bitmap enemy3;
 	public static Bitmap boss1;
 	public static Bitmap star;
+	public static Bitmap spacecloud1;
+	public static Bitmap spacecloud2;
 	public static Bitmap item;
 	public static Bitmap bullet;
 	public static Bitmap bullet2;
@@ -52,6 +54,8 @@ public class Textures extends View
 		enemy3 = BitmapFactory.decodeResource(getResources(), R.drawable.enemy3);
 		boss1 = BitmapFactory.decodeResource(getResources(), R.drawable.boss1);
 		star = BitmapFactory.decodeResource(getResources(), R.drawable.star);
+		spacecloud1 = BitmapFactory.decodeResource(getResources(), R.drawable.spacecloud1);
+		spacecloud2 = BitmapFactory.decodeResource(getResources(), R.drawable.spacecloud2);
 		item = BitmapFactory.decodeResource(getResources(), R.drawable.item);
 		bullet = BitmapFactory.decodeResource(getResources(), R.drawable.bullet);
 		bullet2 = BitmapFactory.decodeResource(getResources(), R.drawable.bullet2);
@@ -91,6 +95,8 @@ public class Textures extends View
 		else if (st.equals("enemy3")){return enemy3;}
 		else if (st.equals("boss1")){return boss1;}
 		else if (st.equals("star")){return star;}
+		else if (st.equals("spacecloud1")){return spacecloud1;}
+		else if (st.equals("spacecloud2")){return spacecloud2;}
 		else if (st.equals("item")){return item;}
 		else if (st.equals("gui_quit")){return gui_quit;}
 		else if (st.equals("ammo1")){return ammo1;}

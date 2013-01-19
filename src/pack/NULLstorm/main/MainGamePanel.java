@@ -23,7 +23,8 @@ public class MainGamePanel extends SurfaceView implements
 	Textures texture;
 	static AudioHandler audio;
 	static WaveHandler wh;
-	static StarHandler bg;
+	//static StarHandler bg;
+	static Background bg;
 	static Player player;
 	static EnemyHandler enemyHandler;
 	static BulletHandler bulletHandler;
@@ -45,7 +46,8 @@ public class MainGamePanel extends SurfaceView implements
 		getHolder().addCallback(this);
 		// initiate objects
 		texture = new Textures(context);
-		bg = new StarHandler();
+		//bg = new StarHandler();
+		bg = new Background();
 		wh = new WaveHandler();
 		player = new Player(NULLstormActivity.getWidthVar() / 2,
 				(int) (NULLstormActivity.getHeightVar() / 1.5));
