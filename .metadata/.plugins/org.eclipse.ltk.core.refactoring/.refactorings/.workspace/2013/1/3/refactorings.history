@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NULLstormActivity&apos; to &apos;NULLstorm&apos;" description="Rename resource &apos;NULLstormActivity&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/NULLstormActivity" name="NULLstorm" stamp="1358605915164" updateReferences="true"/>
+</session>
